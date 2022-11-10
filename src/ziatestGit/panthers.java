@@ -6,5 +6,6 @@ public class panthers {
 		// TODO Auto-generated method stub
     System.out.println(" This is the local test");
 	}
+	System.out.println(" This is the This is from remote test");
 
 }
